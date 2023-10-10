@@ -10,7 +10,7 @@ function Header() {
       justify-between border-b border-stone-200 bg-yellow-400 px-4 
       py-3 uppercase sm:px-6"
       >
-        <Link to="/Fast-React-Pizza" className="tracking-widest">
+        <Link to="/Getyo-Pizza" className="tracking-widest">
           Get'yo Pizza Co.
         </Link>
         <SearchOrder />
